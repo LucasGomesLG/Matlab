@@ -1,10 +1,3 @@
-%% 
-%     Curso do canal ExataMenteS
-%     Aula 4 - Vetores e Matrizes
-%     Se inscreva no canal e nos ajude a crescer <3
-%     Vamos melhorar o Brasil atráves da tecnologia :)
-%     Instrutor: João Pinheiro
-%%
 
 % crie um vetor de uma linha usando colchetes 
 vetor = [1 2 3]
